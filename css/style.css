@@ -1,0 +1,29 @@
+.text{
+    height: 30rem;
+    width: auto;
+}
+.img{
+    height: 4rem;
+    width: 4rem;
+}
+.flex-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.navbar{
+    height: 5rem;
+    border-bottom: #3292a6 2px solid;
+    opacity: 0.8;
+}
+.card-members:hover {
+    background: #3292a6;
+    color: #fff;
+  }
+  .btn-color{
+      
+    background: #3292a6;
+  }
+  .like:hover{
+      color: #3292a6;
+  }
